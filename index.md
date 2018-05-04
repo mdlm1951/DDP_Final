@@ -11,6 +11,8 @@ Exploring the Central Limit Theorem
 
 </p>
 
+The code for the shiny app and the code for this presentation can be found at https://github.com/mdlm1951/Shiny_App
+
 Project Overview
 ===
 
